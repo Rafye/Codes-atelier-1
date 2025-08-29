@@ -1,0 +1,22 @@
+{
+  "name": "codes-atelier-1",
+  "version": "1.0.0",
+  "description": "Mon premier server http",
+  "main": "code-étape-13.js",
+  "type": "module",
+  "engines": {
+    "node": ">20"
+  },
+  "dependencies": {
+    "decode-uri-component": "^0.4.1",
+    "filter-obj": "^5.1.0",
+    "query-string": "^9.1.0",
+    "split-on-first": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Raphael Leduc",
+  "license": "ISC"
+}
