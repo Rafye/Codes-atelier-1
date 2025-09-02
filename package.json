@@ -2,7 +2,7 @@
   "name": "codes-atelier-1",
   "version": "1.0.0",
   "description": "Mon premier server http",
-  "main": "code-étape-13.js",
+  "main": "server.js",
   "type": "module",
   "engines": {
     "node": ">20"
